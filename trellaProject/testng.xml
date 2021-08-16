@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Trella">
+
+	<test name="Trella">
+    <classes>
+      <class name="test.TrellaUITests"/>
+      <class name="test.TrellaAPITests"/>
+    
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
